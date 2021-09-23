@@ -1,0 +1,28 @@
+{
+    "data": [{
+        "id": "1",
+        "name": "Paletas Candy",
+        "image": "https://i.pinimg.com/564x/57/00/43/57004316e5c13ac504f8d7a3cc31c74f.jpg"
+    }, {
+        "id": "2",
+        "name": "Gomitas Candy",
+        "image": "https://wallpaperaccess.com/full/2737802.jpg"
+    }, {
+        "id": "3",
+        "name": "Chicles Candy",
+        "image": "https://www.teahub.io/photos/full/52-523179_colorful-candy-wallpaper.jpg"
+    }, {
+        "id": "4",
+        "name": "Cotton Candy",
+        "image": "https://cdni.rbth.com/rbthmedia/images/all/2017/06/09/yummies/cotton-candy-20150830_zaf_m42_002.jpg"
+    }, {
+        "id": "5",
+        "name": "Choco Candy",
+        "image": "https://media.istockphoto.com/photos/chocolate-background-picture-id522735736?k=20&m=522735736&s=612x612&w=0&h=GU9iBxJ3S7zdgh1VFnMw4hkAvoeKl6ZFeadNJjdbq7E="
+    }, {
+        "id": "6",
+        "name": "Ositos Candy",
+        "image": "https://i.pinimg.com/originals/a3/dc/f1/a3dcf1c2b601c63afe04850120c2092f.jpg"
+    }]
+
+}

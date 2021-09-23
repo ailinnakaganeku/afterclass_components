@@ -1,0 +1,13 @@
+.landing-container {
+  display: flex;
+  width: 100%;
+  height: auto;
+  overflow: 'auto';
+  background-color: #ffdfde;
+  padding: 22px;
+  justify-content: center;
+  align-items: center;
+  flex-flow: wrap;
+  padding-top: 4rem;
+  padding-bottom: 50px;
+}
