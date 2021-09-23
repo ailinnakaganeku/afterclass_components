@@ -8,7 +8,7 @@ var data = [
   { string: 'Contacto', id: '1' },
 ];
 
-export const NavBar = () => {
+const NavBar = () => {
   return (
     <div className='nav-container'>
       <h1 className='nav-logo'>CoderCandy</h1>
@@ -24,3 +24,5 @@ export const NavBar = () => {
     </div>
   );
 };
+
+export default NavBar;

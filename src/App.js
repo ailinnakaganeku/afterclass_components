@@ -1,6 +1,12 @@
+import React from 'react';
+
 import './App.css';
+
+//Components
 import Landing from './components/Landing/Landing';
-import { NavBar } from './components/NavBar/NavBar';
+import NavBar from './components/NavBar/NavBar';
+
+//Bootstrap
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
