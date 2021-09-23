@@ -16,7 +16,7 @@
   font-size: 28px;
   font-weight: 900;
   letter-spacing: 3px;
-  font-family: 'Montserrat';
+  margin-left: 30px;
 }
 
 .nav-items {
@@ -34,10 +34,10 @@
   text-decoration: none;
 }
 
-.nav-item:nth-child(1) {
-  margin-right: 40px;
+.nav-item:hover {
+  color: #ffffff;
 }
 
-.nav-item:nth-child(2) {
-  margin-right: 40px;
+.nav-item {
+  margin-right: 30px;
 }

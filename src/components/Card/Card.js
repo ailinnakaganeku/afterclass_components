@@ -1,14 +1,13 @@
 import React from 'react';
-import ButtonPrimary from '../Button/Button';
 
 import './Card.css';
+import ButtonPrimary from '../Button/Button';
 
 const Card = ({ image, name }) => {
-
   const handleOnClick = () => {
     alert('Le diste Click');
   };
-  
+
   return (
     <div
       className='card-container'
