@@ -5,21 +5,21 @@ import './NavBar.css';
 export const NavBar = () => {
   return (
     <div className='nav-container'>
-      <h1 className='nav-logo'>Logo</h1>
+      <h1 className='nav-logo'>CoderCandy</h1>
       <ul className='nav-items'>
         <li>
           <a href='/' className='nav-item'>
-            Item 1
+            Nosotros
           </a>
         </li>
         <li>
           <a href='/' className='nav-item'>
-            Item 2
+            Productos
           </a>
         </li>
         <li>
           <a href='/' className='nav-item'>
-            Item 3
+            Contacto
           </a>
         </li>
       </ul>
