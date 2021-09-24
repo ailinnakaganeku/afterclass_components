@@ -2,7 +2,7 @@ import React from 'react';
 
 import './NavBar.css';
 
-var data = [
+const data = [
   { string: 'Nosotros', id: '1' },
   { string: 'Productos', id: '1' },
   { string: 'Contacto', id: '1' },
