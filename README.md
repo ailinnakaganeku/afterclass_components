@@ -1,4 +1,4 @@
-[Redultado](/master/src/assets/images/Screen Shot 2021-09-23 at 23.24.18.png)
+![Redultado](master/src/assets/images/Screen Shot 2021-09-23 at 23.24.18.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
