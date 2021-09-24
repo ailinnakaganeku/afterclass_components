@@ -1,4 +1,5 @@
 ![Redultado](https://github.com/ailinnakaganeku/afterclass_components/blob/master/src/assets/images/Screen%20Shot%202021-09-23%20at%2023.24.18.png)
+![Redultado](https://github.com/ailinnakaganeku/afterclass_components/blob/master/src/assets/images/Screen%20Shot%202021-09-23%20at%2023.34.51.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
